@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Sulphur+Point&display=swap');
+
+body {
+	background-image: url(http://wallpapercave.com/wp/c2apnKi.jpg);
+	font-family: 'Sulphur Point', sans-serif;
+}
+
+#title {
+		color: #FFF;
+		text-align: center;
+}
+
+#description {
+		color: #FFF;
+		text-align: center;
+}
+
+#survey-form {
+		padding: 15px;
+		background-color: lightblue;
+		width: 700px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+label {
+		display: block;
+		margin-left: 5.8em;
+		margin-top: 1em;
+}
+
+#name {
+		width: 70%;
+		padding: 10px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+#email {
+		display: block;
+		width: 70%;
+		padding: 10px;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+#number {
+		display: block;
+		width: 70%;
+		padding: 10px;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+
+#dropdown {
+		width: 70%;
+		box-sizing: content-box;
+		padding: 10px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		font-family: "Sulphur-Point", sans-serif;
+		border: none;
+		color: gray;
+}
+
+#radios {
+		display: inline-block;
+		margin-left: 93px;
+} 
+
+#checkboxes {
+		display: inline-block;
+		margin-left: 93px;
+}	
+
+#suggestions {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		padding: 10px;
+}
+
+#submit {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 40px;
+		width: 74%;
+		padding: 10px;
+		background-color: #184890;
+		color: #FFF;
+		font-family: "Sulphur-Point", sans-serif;
+}
